@@ -1,3 +1,4 @@
+// destructureing is a very important concept in terms of learing React
 let arr = [1,2,3,4];
 var [a,...b] = arr;
 console.log(a)
